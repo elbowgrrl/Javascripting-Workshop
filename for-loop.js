@@ -1,5 +1,5 @@
 let total = 0
-let limit = 10
-for (let i = 0; total += i ; i++) {
-console.log(total)
+const limit = 10
+for ( i = 0; i < limit; i++) total += i; {
 };
+console.log(total);
